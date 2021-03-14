@@ -1,0 +1,17 @@
+.head {
+  margin: 20px 0; }
+
+.table {
+  margin: 30px 0; }
+
+.table .thead-light tr th:nth-child(1) {
+  width: 10%; }
+
+.table .thead-light tr th:nth-child(2) {
+  width: 15%; }
+
+.table .thead-light tr th:nth-child(3) {
+  width: 65%; }
+
+.table .thead-light tr th:nth-child(4) {
+  width: 10%; }
